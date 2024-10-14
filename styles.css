@@ -1,0 +1,28 @@
+body{
+    background-color: brown;
+    color: aliceblue;
+ }
+h1{
+    background-color: aqua;
+    color: blueviolet;
+    font-style: bold;
+    align-items: center;
+    justify-items: center;
+}
+div2{
+    color: aqua;
+    background-color: black;
+}
+button{
+    color: plum;
+    background-color:black;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 50px 100px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: blue;
+    color: yellow;
+    border: sienna;
+}   
