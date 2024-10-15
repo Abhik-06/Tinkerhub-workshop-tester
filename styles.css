@@ -13,7 +13,7 @@ div2{
     color: aqua;
     background-color: black;
 }
-button{
+.first_button{
     color: plum;
     background-color:black;
     margin-left: 100px;
@@ -26,3 +26,20 @@ button:hover{
     color: yellow;
     border: sienna;
 }   
+.sub_button{
+    background-color: red;
+    color: green;
+    padding: 1px;
+    margin: 2px;
+    justify-items: center;
+    font-size: medium;
+    font: bold;
+    border-radius: 20px;
+    margin-right: 1600px;
+}
+
+.sub_button2{
+    color: blue;
+    background-color: gray;
+    
+}
